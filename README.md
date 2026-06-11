@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Library Management System
 
 A simple Python library management system that demonstrates core operations for managing books and members.
